@@ -11,7 +11,7 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h2 align="center">
-  Hi there 👨‍💼  I'm <a href="https://www.linkedin.com/in/thetarunkumar">Tarun Kumar 💻</a>!
+  Hi there 👨‍💼  I'm <a href="https://www.linkedin.com/in/thetarunkumar">Rohan Kumar 💻</a>!
 </h2> 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
