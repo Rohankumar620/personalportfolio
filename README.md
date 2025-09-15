@@ -1,4 +1,4 @@
-# personalportfolio
+d# personalportfolio
 
 
 
@@ -98,8 +98,6 @@
 <img src='https://img.shields.io/badge/MongoDB-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='MongoDB' />
 <img src="https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Mongoose"/>
 <br> <br>
-
-<img src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="Mongoose"/>
   <br/>
 <br/>
 
